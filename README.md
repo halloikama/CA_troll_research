@@ -1,2 +1,4 @@
 # CA_troll_research
-research into online trolling behavior
+Discourse act classification for online forum converstations.
+
+This is implemented using ULMFiT from FastAi.
